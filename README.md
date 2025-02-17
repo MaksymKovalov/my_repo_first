@@ -1,2 +1,3 @@
 # my_repo_first
-GoIT
+
+GoIT test repo
